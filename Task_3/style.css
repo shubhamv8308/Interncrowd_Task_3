@@ -1,0 +1,19 @@
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+h1 {
+	font-size: 3em;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.question {
+	margin-bottom: 30px;
+	text-align: left;
+}
+button {
+	font-size: 1.2em;
+	padding: 10px 20px;
+	margin-top: 30px;
+}
